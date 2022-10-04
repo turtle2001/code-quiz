@@ -28,3 +28,12 @@ h2 {
     display: flex;
     justify-content: center;
 }
+
+#qHeader , #aHeader{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#question {
+    text-align: center;
+}
