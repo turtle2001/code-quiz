@@ -29,11 +29,14 @@ h2 {
     justify-content: center;
 }
 
+.quizOngoing{
+    display: none;
+    background-color: red;
+    margin-left: 50%;
+    padding-bottom: 16px;
+}
+
 #qHeader , #aHeader{
     text-align: center;
     padding-top: 20px;
-}
-
-#question {
-    text-align: center;
 }
